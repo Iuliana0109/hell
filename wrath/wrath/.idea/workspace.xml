@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36d73aad-c3a2-41af-b9c8-658313c287bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Bathroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Bedroom1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Bedroom2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Bedroom3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/ForSleeping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Ghost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Hall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Kitchen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/LivingRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/OtherRooms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/out/production/inheritance/SystemHH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Bathroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Bedroom1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Bedroom2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Bedroom3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/ForSleeping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Ghost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Hall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Kitchen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/LivingRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/OtherRooms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../greed/inheritance/src/SystemHH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../j" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G52VwD2erCyeakhXDrRF9Ppec8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/iulianast/oop/hell/wrath"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36d73aad-c3a2-41af-b9c8-658313c287bd" name="Changes" comment="" />
+      <created>1665664153404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665664153404</updated>
+      <workItem from="1665664154622" duration="1060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
